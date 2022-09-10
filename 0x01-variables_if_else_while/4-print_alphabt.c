@@ -11,7 +11,6 @@
 int main(void)
 
 {
-
 	int n = 97;
 
 	while (n <= 122)
@@ -28,5 +27,4 @@ int main(void)
 											}
 	putchar('\n');
 	return (0);
-
 }
