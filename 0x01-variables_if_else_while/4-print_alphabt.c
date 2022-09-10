@@ -17,13 +17,12 @@ int main(void)
 	{
 		if (n == 113 || n == 101)
 		{
-												}
+		}
 		else
 		{
-													putchar(n);
-												}
+			putchar(n);
+		}
 		n++;
-
 											}
 	putchar('\n');
 	return (0);
